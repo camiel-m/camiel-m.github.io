@@ -11,37 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* PhD. in the lab of Sten Linnarsson, Karolinska Institute, 2018 - now
+* MSc. in Biomedical Sciences, Molecular Neuroscience specialization, University of Amsterdam, 2018 (Judicium Cum Laude)
+* BSc. in Psychobiology, University of Amsterdam, 2016 (with Honours)
+* BSc. in Biomedical Sciences, University of Amsterdam, 2016
   
-Skills
+Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Epigenetics
+* Developmental Biology
+* Neuroscience
+* Bioinformatics
+* Statistical Modeling
+* Technology development
+* Python programming
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -54,6 +44,21 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Student projects
 ======
-* Currently signed in to 43 different slack teams
+* Unravelling RNA regulation using single molecule fluorescence hybridization
+  * 2017-2018: Karolinska Institute, Sten Linnarsson group
+  * Languages: Python
+  * duties: method development of novel high throughput smFISH method and analysis of smFISH data
+  * Supervisor: Simone Codeluppi
+
+* Integrative Genome-Wide analysis for the detection of molecular drug targets in late onset Alzheimer's disease
+  * 2017: VU Uuniversity Amsterdam, Danielle Posthuma group
+  * Languages: R, MATLAB
+  * duties: collection, integration and analysis of scRNA-seq data, GWAS summary statistics and protein-protein interaction data
+  * Supervisor: Erdogan Taskesen
+
+* DOT1, AF9 and H3K79 methylation in the Cortex
+  * 2015: University of Amsterdam, Marten Smidt group
+  * duties: using molecular biology techniques like western blot, immunohistochemistry and PCR to characterize the effects of AF9 knock-out in the mouse cortex.
+  * Supervisor: Hendrikus van Heesbeen
