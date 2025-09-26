@@ -12,11 +12,11 @@ Hello there!
 
 My name is Camiel Mannens, I'm originally from the Netherlands, where I grew up in a province that's 99% made up of <u><a href='https://en.wikipedia.org/wiki/Flevoland'>land reclaimed from the sea</a></u>. I have been fascinated by (epi-) genetics ever since I learned about what that term mean. Add to that a love for the human brain, data and maps and it seems inevitable I would at some point want to work in the single cell field.
 
-At the moment I am a PhD student in the lab of <u><a href='https://linnarssonlab.org'>Sten Linnarsson</a></u> at the Karolinska Institute in Stockholm, Sweden. Before this I completed my Bachelor's education (BSc Psychobiology and BSc Biomedical Sciences) and  Master's education  (MSc Biomedical Sciences - Molecular Neuroscience) at the University of Amsterdam in 2016 and 2018 respectively.
+At the moment I am working as a PostDoc in the lab of <u><a href='https://aertslab.org'>Stein Aerts</a></u> at the KU Leuven and VIB in Belgium, where I am working on vertebrate brain evolution and understanding how cell types are encoded in the genome. Previously, I was a PhD student in the lab of <u><a href='https://linnarssonlab.org'>Sten Linnarsson</a></u> at the Karolinska Institute in Stockholm, Sweden. My Bachelor's education (BSc Psychobiology and BSc Biomedical Sciences) and  Master's education  (MSc Biomedical Sciences - Molecular Neuroscience) were conducted at the University of Amsterdam.
 
 Research focus
 ======
-My primary focus is to apply high-throughput sequencing methodologies to complex biological systems and to develop the computational tools and pipelines required to analyze such data. In particular I am interested in gene regulation and how it is organized in healthy systems and how it can be disorganized in disease.
+My primary focus is to apply high-throughput sequencing methodologies to complex biological systems and to develop the computational tools and pipelines required to analyze such data. In particular I am interested in gene regulation and how the genome is able to reproducibly organize new cells into distinct molecular and phenotypic cellt types.
 
 In addition to this I am also interested in the spatial organization of human development. We have previously designed a novel probe based spatial transcriptomic technique called EEL smFISH to query expression in large tissue sections and I also work with live-imaging for which I built a perfusion system to our specific needs.
 
